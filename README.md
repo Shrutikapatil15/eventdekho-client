@@ -64,7 +64,7 @@ EventApply is a comprehensive platform that bridges the gap between colleges and
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.1.3-38B2AC?logo=tailwind-css)
 ![Flowbite React](https://img.shields.io/badge/Flowbite_React-0.11.7-cyan?logo=flowbite)
 
-Repo - https://github.com/mahemudborgave/eventdekho-client
+Repo - https://github.com/Shrutikapatil15/eventdekho-client
 
 **Key Libraries:**
 - **UI Components**: Material-UI, Flowbite React, Lucide React Icons
@@ -83,7 +83,7 @@ Repo - https://github.com/mahemudborgave/eventdekho-client
 ![JWT](https://img.shields.io/badge/JWT-Authentication-orange?logo=json-web-tokens)
 
 
-Repo - https://github.com/mahemudborgave/eventdekho-server
+Repo - https://github.com/Shrutikapatil15/eventdekho-server
 
 **Key Technologies:**
 - **Runtime**: Node.js with ES6 modules
@@ -253,13 +253,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support & Contact
 
-- **Email**: mahemudborgave@gmail.com
+- **Email**: Shrutikapatil15@gmail.com
 - **Website**: https://EventApply1.vercel.app
-- **Issues**: [GitHub Issues](https://github.com/mahemudborgave/EventApply-client/issues)
+- **Issues**: [GitHub Issues](https://github.com/Shrutikapatil15/EventApply-client/issues)
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=mahemudborgave/EventApply-client&type=Date)](https://star-history.com/#mahemudborgave/EventApply-client&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Shrutikapatil15/EventApply-client&type=Date)](https://star-history.com/#Shrutikapatil15/EventApply-client&Date)
 
 ---
 
